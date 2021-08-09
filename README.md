@@ -1,4 +1,5 @@
 # alx-vim-config
+
 A vim terminal configuration for alx-students
 
 ### Steps to install and configure
@@ -26,9 +27,6 @@ The above ```vim .vimrc``` command will launch vim to read the configuration fil
 ```
 
 Hit **q** after installation is done to close installation tab and use vim as you wish.
-
-
-Edit your .gitconfig to use and replace username and email with your respective username and emails
 
 
 ## Congratulations!!! All plugins are now installed and your vim is now a full-fledged IDE
