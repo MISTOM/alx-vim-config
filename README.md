@@ -28,9 +28,6 @@ The above ```vim .vimrc``` command will launch vim to read the configuration fil
 Hit **q** after installation is done to close installation tab and use vim as you wish.
 
 
-This is a link to my git configuration, forked and edited to make git use easy. Please feel free to use to make things easier for you.
-[My Git Config on Gist](https://gist.github.com/CharaD7/cb0ad320e980c4f0dbad0b5528b542a9)
-
 Edit your .gitconfig to use and replace username and email with your respective username and emails
 
 
